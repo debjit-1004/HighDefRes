@@ -1,4 +1,4 @@
-# SRCNN - Image Super-Resolution
+# HighDefRes - Image Super-Resolution
 
 This repository contains an implementation of the Super-Resolution Convolutional Neural Network (SRCNN), a deep learning model designed to enhance the resolution of low-quality images. The goal is to recover high-quality images from their low-resolution counterparts, making it useful for various applications such as image upscaling, restoration, and enhancement.
 
